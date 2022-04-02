@@ -1,18 +1,15 @@
-
-
-<h1 align="center">Hi 👋, I'm I'm Richard, welcome to my GitHub. 🌱</h1>
-<h3 align="center">I am a self-taught Python programmer. I am always here to help you.</h3>
+[![MasterHead](https://www.canva.com/design/DAE8u1rt08Q/B50eEb2crCWB6sA26QKFZA/view?utm_content=DAE8u1rt08Q&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel"](https://richiesme.github.io)
+<h1 align="center">Hi 👋, I'm Richard, welcome to my GitHub. 🌱</h1>
+<h3 align="center">I am a self-taught Python programmer and I am always here to help you.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richiesme&label=Profile%20views&color=0e75b6&style=flat" alt="richiesme" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richiesme" alt="richiesme" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAE8u1rt08Q/B50eEb2crCWB6sA26QKFZA/view?utm_content=DAE8u1rt08Q&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel">
-
-- 💻 I am **a self-taught Data/ML Engineer, a Python programmer and and coach with a bachelor's degree in Physics and solid state electronics.**
+- 💻 I am **a self-taught Data/ML Engineer, a Python programmer and coach with a bachelor's degree in Physics and solid state electronics.**
 
 - 🔭 I’m currently learning **concepts in Data engineering and ML**
 
-- 👨🏼‍💻 I'm also a **technical instructor and advisor who loves providing mentorship.**
+- 👨🏼‍💻 I'm also a **technical instructor and advisor who loves providing mentorship and training.**
 
 - 💬 Feel more than welcome to contact me **if you need any help or want to discuss any Python, Data/ML engineering topic!**
 
