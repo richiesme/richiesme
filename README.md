@@ -1,4 +1,4 @@
- <!---[![MasterHead](https://www.canva.com/design/DAE8u1rt08Q/B50eEb2crCWB6sA26QKFZA/view?utm_content=DAE8u1rt08Q&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel"]--->
+
 <h1 align="center">Hi 👋, I'm Richard, welcome to my GitHub. 🌱</h1>
 <h3 align="center">I am a self-taught Python programmer and I am always here to help you.</h3>
 
