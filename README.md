@@ -6,7 +6,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-- 💻 I am a **self-taught Data/ML Engineer, a Python programmer and coach with a bachelor's degree in Physics and solid state electronics.**
+- 💻 I am a **self-taught Data Engineer, a Python programmer and coach with a bachelor's degree in Physics and solid state electronics.**
 
 - 🔭 I’m currently learning **concepts in Data engineering and ML**
 
