@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Richard, welcome to my GitHub. 🌱
 
 <!--
 **richiesme/richiesme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
