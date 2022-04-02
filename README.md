@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richiesme&label=Profile%20views&color=0e75b6&style=flat" alt="richiesme" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richiesme" alt="richiesme" /></a> </p>
-- 💻 I am **a self-taught Data/ML Engineer, a Python programmer and coach with a bachelor's degree in Physics and solid state electronics.**
+
+- 💻 I am a **self-taught Data/ML Engineer, a Python programmer and coach with a bachelor's degree in Physics and solid state electronics.**
 
 - 🔭 I’m currently learning **concepts in Data engineering and ML**
 
